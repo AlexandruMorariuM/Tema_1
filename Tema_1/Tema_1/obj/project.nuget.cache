@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bFCODvuTxaB85CoH+8QA9HUXCHpKGI+md1SGjR7gc8QruQaDyZT1U5ryDsZs4Fqu6/ttu2S/1aPRmla27H9zhQ==",
+  "dgSpecHash": "4uzFjyhPaJcen3+OZDJVD9B0sL6iJ9z8wkZWMPHoCxREQ03eykNfCptjcehf2yDAastVA0eeMp2/oUDInQoKyQ==",
   "success": true,
-  "projectFilePath": "D:\\Facultate\\FacultateInfoAplicata\\Anul 3\\Semestrul 2\\DAWM\\Tema 1\\Tema_1\\Tema_1\\Tema_1.csproj",
+  "projectFilePath": "D:\\Facultate\\FacultateInfoAplicata\\Anul 3\\Semestrul 2\\DAWM\\Tema 1 Git\\Tema_1\\Tema_1\\Tema_1\\Tema_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
