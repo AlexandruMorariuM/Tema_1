@@ -25,3 +25,30 @@ D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1\Tema_1\Tema_1\
 D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1\Tema_1\Tema_1\obj\Debug\net6.0\Tema_1.pdb
 D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1\Tema_1\Tema_1\obj\Debug\net6.0\Tema_1.genruntimeconfig.cache
 D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1\Tema_1\Tema_1\obj\Debug\net6.0\ref\Tema_1.dll
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\bin\Debug\net6.0\appsettings.Development.json
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\bin\Debug\net6.0\appsettings.json
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\bin\Debug\net6.0\Tema_1.exe
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\bin\Debug\net6.0\Tema_1.deps.json
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\bin\Debug\net6.0\Tema_1.runtimeconfig.json
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\bin\Debug\net6.0\Tema_1.dll
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\bin\Debug\net6.0\Tema_1.pdb
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\Tema_1.csproj.AssemblyReference.cache
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\Tema_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\Tema_1.AssemblyInfoInputs.cache
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\Tema_1.AssemblyInfo.cs
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\Tema_1.csproj.CoreCompileInputs.cache
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\Tema_1.MvcApplicationPartsAssemblyInfo.cs
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\Tema_1.MvcApplicationPartsAssemblyInfo.cache
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\scopedcss\bundle\Tema_1.styles.css
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\Tema_1.csproj.CopyComplete
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\Tema_1.dll
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\refint\Tema_1.dll
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\Tema_1.pdb
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\Tema_1.genruntimeconfig.cache
+D:\Facultate\FacultateInfoAplicata\Anul 3\Semestrul 2\DAWM\Tema 1 Git\Tema_1\Tema_1\Tema_1\obj\Debug\net6.0\ref\Tema_1.dll
